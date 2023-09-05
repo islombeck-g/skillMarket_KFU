@@ -52,7 +52,10 @@
 			isa = PBXGroup;
 			children = (
 				63A790FC2AA7ABD8007366F2 /* skillsMarket_0_0App.swift */,
+				63A7910A2AA7AC4A007366F2 /* enter Module */,
 				63A790FE2AA7ABD8007366F2 /* ContentView.swift */,
+				63A7910C2AA7ACBB007366F2 /* API Module */,
+				63A7910B2AA7AC55007366F2 /* profile Module */,
 				63A791002AA7ABD9007366F2 /* Assets.xcassets */,
 				63A791022AA7ABD9007366F2 /* Preview Content */,
 			);
@@ -65,6 +68,27 @@
 				63A791032AA7ABD9007366F2 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		63A7910A2AA7AC4A007366F2 /* enter Module */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "enter Module";
+			sourceTree = "<group>";
+		};
+		63A7910B2AA7AC55007366F2 /* profile Module */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "profile Module";
+			sourceTree = "<group>";
+		};
+		63A7910C2AA7ACBB007366F2 /* API Module */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "API Module";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
